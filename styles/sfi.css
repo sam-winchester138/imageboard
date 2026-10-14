@@ -1,0 +1,14 @@
+p{
+    color: red
+}
+
+h1{
+    color: green
+}
+
+.whatever{
+    background-color: gray;
+    display: inline-block;
+    padding: 8px;
+     border-radius: 25px;
+}
